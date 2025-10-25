@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm dash12563 (Call me Han)
 
-<!--
-**dash12653/dash12653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student in **MSIS at Northeastern University (US)**.  
+💡 I'm interested in **database internals** and currently working on a **vectorized hash join operator**.  
+🚀 Open to **2026 new graduate positions**.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- C  
+- C++  
+- Go  
+- SQL  
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🌐 Connect with Me
+- 💬 Linkedin: [linkedin.com/in/han-shao-b30a0a350](https://www.linkedin.com/in/han-shao-b30a0a350)
+- 📫 Email: ncwcncbc1161@gmail.com

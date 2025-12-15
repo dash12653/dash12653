@@ -7,6 +7,8 @@
 ### 🛠️ Tech Stack
 C, C++, Go, SQL, Python
 
-- ### 🌐 Connect with Me
-- 💬 Linkedin: [linkedin.com/in/han-shao-b30a0a350](https://www.linkedin.com/in/han-shao-b30a0a350)
-- 📫 Email: ncwcncbc1161@gmail.com
+🌐 Connect with Me
+
+💬 Linkedin: [linkedin.com/in/han-shao-b30a0a350](https://www.linkedin.com/in/han-shao-b30a0a350)
+
+📫 Email: ncwcncbc1161@gmail.com

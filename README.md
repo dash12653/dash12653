@@ -5,11 +5,7 @@
 🚀 Open to **2026 new graduate positions**.
 
 ### 🛠️ Tech Stack
-- C  
-- C++  
-- Go  
-- SQL  
-- Python
+C, C++, Go, SQL, Python
 
 - ### 🌐 Connect with Me
 - 💬 Linkedin: [linkedin.com/in/han-shao-b30a0a350](https://www.linkedin.com/in/han-shao-b30a0a350)

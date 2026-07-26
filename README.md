@@ -1,14 +1,12 @@
-# 👋 Hi, I'm dash12563 (Call me Han)
+# 👋 Hi, I'm dash12653 (Call me Han)
+🎓 I hold an **MS in Information Systems from Northeastern University (US)**.  
+💡 I'm interested in **database internals** — query optimization, execution engines, and storage.  
+🛠️ Built a **vectorized hash join operator**, inspired by PostgreSQL and DuckDB internals.  
+🚀 Open to **2026 new grad and database / query engine engineering roles**.
 
-🎓 I'm a student in **MSIS at Northeastern University (US)**.  
-💡 I'm interested in **database internals** and currently working on a **vectorized hash join operator**.  
-🚀 Open to **2026 new graduate positions**.
-
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 C, C++, Go, SQL, Python
 
-🌐 Connect with Me
-
-💬 Linkedin: [linkedin.com/in/han-shao-b30a0a350](https://www.linkedin.com/in/han-shao-b30a0a350)
-
+### 🌐 Connect with Me
+💬 LinkedIn: [linkedin.com/in/han-shao-b30a0a350](https://www.linkedin.com/in/han-shao-b30a0a350)  
 📫 Email: ncwcncbc1161@gmail.com
